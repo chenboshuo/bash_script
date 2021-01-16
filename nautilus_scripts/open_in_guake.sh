@@ -1,1 +1,1 @@
-guake --new-tab=`pwd` --show
+guake --new-tab=$NAUTILUS_SCRIPT_SELECTED_FILE_PATHS --show
